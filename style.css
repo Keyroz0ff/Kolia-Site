@@ -1,0 +1,13 @@
+html {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body {
+    background-color: #333;
+}
+hr {
+    width: 200px;
+}
+
+h1{
+    color : white
+}
